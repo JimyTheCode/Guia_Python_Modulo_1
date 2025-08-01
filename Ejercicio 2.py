@@ -1,6 +1,6 @@
 def Edad (edad):
     """
-   Esta función toma el peso de la persona y la divide sobre la altura elevada a la 2.
+   Esta función toma la edad de la persona.
 
    Args:
        edad (int): El primer valor.
